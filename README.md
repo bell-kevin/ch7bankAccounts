@@ -6,11 +6,11 @@ The main function will create 2 accounts using initialization list, one a checki
 
 Example of the program running:
 
-Ch 7 Bank Account running
+![Ch 7 Bank Account running](https://github.com/bell-kevin/ch7bankAccounts/blob/main/Screenshot%20from%202022-10-13%2021-30-46.png)
 
 Example of the program with errors in withdrawal amounts:
 
-Ch 8 Bank Acct with errors
+![Ch 7 Bank Acct with errors](https://github.com/bell-kevin/ch7bankAccounts/blob/main/Screenshot%20from%202022-10-13%2021-32-06.png)
 
 Run the project twice, once with valid input and once with invalid input for withdrawals, and take screenshots, as shown here.
 
